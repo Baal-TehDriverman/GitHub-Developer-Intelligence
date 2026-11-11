@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local-only configuration (never commit)
+public/repo-register.json
+src/config/repo-register.local.json

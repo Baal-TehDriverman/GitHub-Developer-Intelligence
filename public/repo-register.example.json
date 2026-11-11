@@ -1,0 +1,16 @@
+[
+  {
+    "name": "github-developer-intelligence",
+    "org": "Baal-TehDriverman",
+    "classification": "ACTIVE",
+    "icon": "LayoutDashboard",
+    "desc": "Developer intelligence dashboard — GitHub API exploration with AI-powered analysis."
+  },
+  {
+    "name": "housing-fight-public",
+    "org": "Baal-TehDriverman",
+    "classification": "ACTIVE",
+    "icon": "FileText",
+    "desc": "Sanitized public copy of a manufactured-home dispute case file."
+  }
+]
